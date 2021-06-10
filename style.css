@@ -1,0 +1,29 @@
+#root {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    align-content: center;
+
+}
+
+h2 {
+    width: 100%;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    object-fit: cover;
+    height: 120px;
+    width: 120px;
+    margin: 20px 20px 0 20px;
+}
+
+b, p{
+    text-align: center;
+}
+.rating{
+    margin: 20px;
+}
